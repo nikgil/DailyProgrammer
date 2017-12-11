@@ -26,7 +26,7 @@ Main goal is to improve my general CS knowledge and Java skills.
 5. [ASCII Game of Life](https://github.com/nikmanG/DailyProgrammer/tree/master/src/io/github/nikmang/dec0717)
 6. [Path to Philosophy](https://github.com/nikmanG/DailyProgrammer/tree/master/src/io/github/nikmang/dec0817) (used JSoup, not uploading dependency)
 7. [Scrape r/dailyprogrammer](https://github.com/nikmanG/DailyProgrammer/tree/master/src/io/github/nikmang/dec1017) (skipped 9th December & used JRAW as depndency)
-8.
+8. [Baum-Sweet Sequence](https://github.com/nikmanG/DailyProgrammer/tree/master/src/io/github/nikmang/dec1117)
 9.
 0.
 1.
