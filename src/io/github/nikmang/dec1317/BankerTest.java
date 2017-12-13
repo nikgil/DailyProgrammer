@@ -11,6 +11,25 @@ import java.util.*;
 public class BankerTest {
 
     @Test
+    public void testNoSolution() {
+        int[] allocated = {3,3,2};
+        Process p0 = new Process("P0", new int[]{0,1,0}, new int[]{7,5,3});
+        Process p2 = new Process("P2", new int[]{3,0,2}, new int[]{9,0,2});
+        Process p4 = new Process("P4", new int[]{0,0,2}, new int[]{4,3,3});
+
+        List<Process> path = Arrays.asList(p4,p0,p2);
+
+        Banker banker = new Banker(allocated);
+        banker.processes.addAll(path);
+
+        //This also adds to inner object lists which is bad practice as the function contains a hidden side-effect
+        List<Process> processes = banker.runProgram();
+
+        Assert.assertEquals(0, processes.size());
+    }
+
+
+    @Test
     public void testBanker() {
         int[] allocated = {3,3,2};
         Process p0 = new Process("P0", new int[]{0,1,0}, new int[]{7,5,3});
