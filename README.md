@@ -37,7 +37,7 @@ In lieu of that, I will explicitly mention in brackets on this page if I have us
 9. [Banker's Algorithm](https://github.com/nikmanG/DailyProgrammer/tree/master/src/io/github/nikmang/dec1317) (skipped 12th December because of exam)
 0. [It's super effective](https://github.com/nikmanG/DailyProgrammer/tree/master/src/io/github/nikmang/dec1417) (dependency: **[JSoup](https://jsoup.org/), [Gson](https://github.com/google/gson)**)
 1. [Set Game Solver](https://github.com/nikmanG/DailyProgrammer/tree/master/src/io/github/nikmang/dec1517)
-2.
+2. [Basic Graph Statistics: Node Degrees](https://github.com/nikmanG/DailyProgrammer/tree/master/src/io/github/nikmang/dec1617)
 3.
 4.
 5.
