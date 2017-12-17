@@ -35,10 +35,10 @@ In lieu of that, I will explicitly mention in brackets on this page if I have us
 7. [Scrape r/dailyprogrammer](https://github.com/nikmanG/DailyProgrammer/tree/master/src/io/github/nikmang/dec1017) (skipped 9th December (break day needed) & dependency: **[JRAW](https://github.com/mattbdean/JRAW)**)
 8. [Baum-Sweet Sequence](https://github.com/nikmanG/DailyProgrammer/tree/master/src/io/github/nikmang/dec1117)
 9. [Banker's Algorithm](https://github.com/nikmanG/DailyProgrammer/tree/master/src/io/github/nikmang/dec1317) (skipped 12th December because of exam)
-0. [It's super effective](https://github.com/nikmanG/DailyProgrammer/tree/master/src/io/github/nikmang/dec1417) (dependency: **[JSoup](https://jsoup.org/), [Gson](https://github.com/google/gson)**)
+0. [It's Super Effective](https://github.com/nikmanG/DailyProgrammer/tree/master/src/io/github/nikmang/dec1417) (dependency: **[JSoup](https://jsoup.org/), [Gson](https://github.com/google/gson)**)
 1. [Set Game Solver](https://github.com/nikmanG/DailyProgrammer/tree/master/src/io/github/nikmang/dec1517)
 2. [Basic Graph Statistics: Node Degrees](https://github.com/nikmanG/DailyProgrammer/tree/master/src/io/github/nikmang/dec1617)
-3.
+3. [Fallout Hacking Game](https://github.com/nikmanG/DailyProgrammer/tree/master/src/io/github/nikmang/dec1717)
 4.
 5.
 6.
