@@ -15,7 +15,7 @@ import java.util.Scanner;
  * Difficulty: Intermediate
  */
 public class Fallout {
-    
+
     private List<String> words;
     private String chosen;
 

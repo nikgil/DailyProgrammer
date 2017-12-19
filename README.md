@@ -39,7 +39,7 @@ In lieu of that, I will explicitly mention in brackets on this page if I have us
 1. [Set Game Solver](https://github.com/nikmanG/DailyProgrammer/tree/master/src/io/github/nikmang/dec1517)
 2. [Basic Graph Statistics: Node Degrees](https://github.com/nikmanG/DailyProgrammer/tree/master/src/io/github/nikmang/dec1617)
 3. [Fallout Hacking Game](https://github.com/nikmanG/DailyProgrammer/tree/master/src/io/github/nikmang/dec1717)
-4.
+4. [Secret Santa](https://github.com/nikmanG/DailyProgrammer/tree/master/src/io/github/nikmang/dec1817)
 5.
 6.
 7.
