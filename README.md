@@ -32,15 +32,15 @@ In lieu of that, I will explicitly mention in brackets on this page if I have us
 4. [A Car Renting Problem](https://github.com/nikmanG/DailyProgrammer/tree/master/src/io/github/nikmang/dec0617)
 5. [ASCII Game of Life](https://github.com/nikmanG/DailyProgrammer/tree/master/src/io/github/nikmang/dec0717)
 6. [Path to Philosophy](https://github.com/nikmanG/DailyProgrammer/tree/master/src/io/github/nikmang/dec0817) (dependency: **[JSoup](https://jsoup.org/)**)
-7. [Scrape r/dailyprogrammer](https://github.com/nikmanG/DailyProgrammer/tree/master/src/io/github/nikmang/dec1017) (skipped 9th December (break day needed) & dependency: **[JRAW](https://github.com/mattbdean/JRAW)**)
+7. [Scrape r/dailyprogrammer](https://github.com/nikmanG/DailyProgrammer/tree/master/src/io/github/nikmang/dec1017) (dependency: **[JRAW](https://github.com/mattbdean/JRAW)**)
 8. [Baum-Sweet Sequence](https://github.com/nikmanG/DailyProgrammer/tree/master/src/io/github/nikmang/dec1117)
-9. [Banker's Algorithm](https://github.com/nikmanG/DailyProgrammer/tree/master/src/io/github/nikmang/dec1317) (skipped 12th December because of exam)
+9. [Banker's Algorithm](https://github.com/nikmanG/DailyProgrammer/tree/master/src/io/github/nikmang/dec1317)
 0. [It's Super Effective](https://github.com/nikmanG/DailyProgrammer/tree/master/src/io/github/nikmang/dec1417) (dependency: **[JSoup](https://jsoup.org/), [Gson](https://github.com/google/gson)**)
 1. [Set Game Solver](https://github.com/nikmanG/DailyProgrammer/tree/master/src/io/github/nikmang/dec1517)
 2. [Basic Graph Statistics: Node Degrees](https://github.com/nikmanG/DailyProgrammer/tree/master/src/io/github/nikmang/dec1617)
 3. [Fallout Hacking Game](https://github.com/nikmanG/DailyProgrammer/tree/master/src/io/github/nikmang/dec1717)
 4. [Secret Santa](https://github.com/nikmanG/DailyProgrammer/tree/master/src/io/github/nikmang/dec1817)
-5.
+5. [Checksums](https://github.com/nikmanG/DailyProgrammer/tree/master/src/io/github/nikmang/dec2117)
 6.
 7.
 8.
