@@ -42,7 +42,7 @@ In lieu of that, I will explicitly mention in brackets on this page if I have us
 4. [Secret Santa](https://github.com/nikmanG/DailyProgrammer/tree/master/src/io/github/nikmang/dec1817)
 5. [Checksums](https://github.com/nikmanG/DailyProgrammer/tree/master/src/io/github/nikmang/dec2117)
 6. [Caesar Cipher](https://github.com/nikmanG/DailyProgrammer/tree/master/src/io/github/nikmang/dec2217)
-7.
+7. [Two-Way Morse](https://github.com/nikmanG/DailyProgrammer/tree/master/src/io/github/nikmang/dec2217) (Look out for the note in the comment)
 8.
 9.
 0.
