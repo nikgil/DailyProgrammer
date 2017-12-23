@@ -27,8 +27,8 @@ In lieu of that, I will explicitly mention in brackets on this page if I have us
 9. [Sum of Digits of X Raised to N](https://github.com/nikmanG/DailyProgrammer/tree/master/src/io/github/nikmang/dec0117)
 0. [Arrow Maze](https://github.com/nikmanG/DailyProgrammer/tree/master/src/io/github/nikmang/dec0217)
 1. [Sum them Digits](https://github.com/nikmanG/DailyProgrammer/tree/master/src/io/github/nikmang/dec0317)
-2. [A* vs Dijkstra](https://github.com/nikmanG/DailyProgrammer/tree/master/src/io/github/nikmang/dec0417) (not r/dailyprogrammer)
-3. [Minimum Sub-Array](https://github.com/nikmanG/DailyProgrammer/tree/master/src/io/github/nikmang/dec0517) (not r/dailyprgrammer)
+2. [A* vs Dijkstra](https://github.com/nikmanG/DailyProgrammer/tree/master/src/io/github/nikmang/dec0417) (not r/dailyprogrammer or any exercise)
+3. [Minimum Sub-Array](https://github.com/nikmanG/DailyProgrammer/tree/master/src/io/github/nikmang/dec0517) (not r/dailyprgrammer. Implementation of sliding window)
 4. [A Car Renting Problem](https://github.com/nikmanG/DailyProgrammer/tree/master/src/io/github/nikmang/dec0617)
 5. [ASCII Game of Life](https://github.com/nikmanG/DailyProgrammer/tree/master/src/io/github/nikmang/dec0717)
 6. [Path to Philosophy](https://github.com/nikmanG/DailyProgrammer/tree/master/src/io/github/nikmang/dec0817) (dependency: **[JSoup](https://jsoup.org/)**)
@@ -41,7 +41,7 @@ In lieu of that, I will explicitly mention in brackets on this page if I have us
 3. [Fallout Hacking Game](https://github.com/nikmanG/DailyProgrammer/tree/master/src/io/github/nikmang/dec1717)
 4. [Secret Santa](https://github.com/nikmanG/DailyProgrammer/tree/master/src/io/github/nikmang/dec1817)
 5. [Checksums](https://github.com/nikmanG/DailyProgrammer/tree/master/src/io/github/nikmang/dec2117)
-6.
+6. [Caesar Cipher](https://github.com/nikmanG/DailyProgrammer/tree/master/src/io/github/nikmang/dec2217)
 7.
 8.
 9.
