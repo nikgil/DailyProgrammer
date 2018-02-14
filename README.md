@@ -48,7 +48,7 @@ In lieu of that, I will explicitly mention in brackets on this page if I have us
 7. [Two-Way Morse](https://github.com/nikmanG/DailyProgrammer/tree/master/src/io/github/nikmang/dec2317) (Look out for the note in the comment)
 8. [Tree Generation](https://github.com/nikmanG/DailyProgrammer/tree/master/src/io/github/nikmang/dec2517)
 9. [Mirror Encryption](https://github.com/nikmanG/DailyProgrammer/tree/master/src/io/github/nikmang/dec2717)
-0. [Bowling Frames Display](https://github.com/nikmanG/DailyProgrammer/tree/master/src/io/github/nikmang/feb0217)
+0. [Bowling Frames Display](https://github.com/nikmanG/DailyProgrammer/tree/master/src/io/github/nikmang/feb0218)
 1.
 2.
 3.
