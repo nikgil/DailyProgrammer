@@ -49,7 +49,7 @@ In lieu of that, I will explicitly mention in brackets on this page if I have us
 8. [Tree Generation](https://github.com/nikmanG/DailyProgrammer/tree/master/src/io/github/nikmang/dec2517)
 9. [Mirror Encryption](https://github.com/nikmanG/DailyProgrammer/tree/master/src/io/github/nikmang/dec2717)
 0. [Bowling Frames Display](https://github.com/nikmanG/DailyProgrammer/tree/master/src/io/github/nikmang/feb0218)
-1.
+1. [Ducci Sequence](https://github.com/nikmanG/DailyProgrammer/tree/master/src/io/github/nikmang/sep2218)
 2.
 3.
 4.
