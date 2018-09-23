@@ -6,7 +6,14 @@ import java.util.List;
 /**
  * Author: jnazario
  * Link: https://www.reddit.com/r/dailyprogrammer/comments/8sjcl0/20180620_challenge_364_intermediate_the_ducci/
- * Difficulty: Medium
+ * Difficulty: Intermediate
+ *
+ * Test Cases [output]:
+ * 1) {0, 653, 1854, 4063} [24]
+ * 2) {1, 5, 7, 9, 9} [23]
+ * 3) {1, 2, 1, 2, 1, 0} [3]
+ * 4) {10, 12, 41, 62, 31, 50} [22]
+ * 5) {10, 12, 41, 62, 31} [30]
  */
 public class Ducci {
 

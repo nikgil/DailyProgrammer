@@ -1,8 +1,5 @@
 [![license](https://img.shields.io/github/license/nikmanG/DailyProgrammer.svg)](https://github.com/nikmanG/DailyProgrammer/blob/master/LICENSE.txt)
 
-# Note
-I am postponing this until DailyProgrammer picks up again and my short term projects are done with.
-
 # DailyProgrammer
 
 Most of the packages here are separate challenges from [r/dailyprogrammer](https://www.reddit.com/r/dailyprogrammer).
