@@ -49,3 +49,4 @@ In lieu of that, I will explicitly mention in brackets on this page if I have us
 1. [Ducci Sequence](https://github.com/nikmanG/DailyProgrammer/tree/master/src/io/github/nikmang/sep2218)
 2. [Sales Commissions](https://github.com/nikmanG/DailyProgrammer/tree/master/src/io/github/nikmang/sep2318)
 3. [Word Funnel 2](https://github.com/nikmanG/DailyProgrammer/tree/master/src/io/github/nikmang/sep2418) (Could not get bonus 2 fully)
+4. [Huffman Encoding/Decoding](https://github.com/nikmanG/DailyProgrammer/tree/master/src/io/github/nikmang/sep2418)
