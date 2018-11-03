@@ -9,6 +9,10 @@ Main goal is to improve my general CS knowledge and Java skills.
 
 You may also notice that not all of these are from the subreddit (or even coding per se), but it's really a case of if I can't find something to do on the day I'll try substitute it.
 
+## Update 28/10/18
+
+Looks like [r/dailyprogrammer](https://www.reddit.com/r/dailyprogrammer) is somewhat dead so most things moving forward will be just concepts and little "code trinkets" that I think of on the day.
+
 # Dependencies
 
 Because I am not sure on the various license and sharing allowances for the various dependencies that I may use, I won't be uploading my resources folder contents.
@@ -49,4 +53,5 @@ In lieu of that, I will explicitly mention in brackets on this page if I have us
 1. [Ducci Sequence](https://github.com/nikmanG/DailyProgrammer/tree/master/src/io/github/nikmang/sep2218)
 2. [Sales Commissions](https://github.com/nikmanG/DailyProgrammer/tree/master/src/io/github/nikmang/sep2318)
 3. [Word Funnel 2](https://github.com/nikmanG/DailyProgrammer/tree/master/src/io/github/nikmang/sep2418) (Could not get bonus 2 fully)
-4. [Huffman Encoding/Decoding](https://github.com/nikmanG/DailyProgrammer/tree/master/src/io/github/nikmang/sep2418)
+4. [Huffman Encoding/Decoding](https://github.com/nikmanG/DailyProgrammer/tree/master/src/io/github/nikmang/oct2718) (not r/dailyprogrammer)
+4. [Josephus Problem](https://github.com/nikmanG/DailyProgrammer/tree/master/src/io/github/nikmang/nov0318) (not r/dailyprogrammer)

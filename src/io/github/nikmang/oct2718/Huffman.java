@@ -9,9 +9,6 @@ import java.util.stream.Collectors;
 
 /**
  * Huffman encoding/decoding. Been meaning to do this for a long time.
- * 
- * @author Nik Gil
- * Date: 27/10/2018
  */
 public class Huffman {
 
