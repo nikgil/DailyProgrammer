@@ -54,4 +54,5 @@ In lieu of that, I will explicitly mention in brackets on this page if I have us
 2. [Sales Commissions](https://github.com/nikmanG/DailyProgrammer/tree/master/src/io/github/nikmang/sep2318)
 3. [Word Funnel 2](https://github.com/nikmanG/DailyProgrammer/tree/master/src/io/github/nikmang/sep2418) (Could not get bonus 2 fully)
 4. [Huffman Encoding/Decoding](https://github.com/nikmanG/DailyProgrammer/tree/master/src/io/github/nikmang/oct2718) (not r/dailyprogrammer)
-4. [Josephus Problem](https://github.com/nikmanG/DailyProgrammer/tree/master/src/io/github/nikmang/nov0318) (not r/dailyprogrammer)
+5. [Josephus Problem](https://github.com/nikmanG/DailyProgrammer/tree/master/src/io/github/nikmang/nov0318) (not r/dailyprogrammer)
+6. [MapReduce](https://github.com/nikmanG/DailyProgrammer/tree/master/src/io/github/nikmang/dec0618) (not r/dailyprogrammer)
